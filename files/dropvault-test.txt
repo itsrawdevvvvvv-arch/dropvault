@@ -1,0 +1,1 @@
+DropVault hosting check — if you can read this, uploaded files are served correctly.
